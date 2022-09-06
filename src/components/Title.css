@@ -1,0 +1,38 @@
+.title {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(-45deg, #FFFDDE, #FFCBCB, #E7FBBE, #FFCBCB);
+    animation: gradient 15s ease infinite;
+    background-size: 400%;
+}
+.title div {
+    position: relative;
+    top: -100px;
+    font-size: 3rem;
+}
+.title h1 {
+    margin: 20px;
+}
+.title button {
+    border: 0px;
+    padding: 20px;
+    width: 100px;
+    border-radius: 100px;
+    background-color: #0C4271;
+    font-size: 1rem;
+    color: white;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 100%;
+    }
+    50% {
+        background-position: 100% 100%;
+    }
+    100% {
+        background-position: 0% 100%;
+    }
+}

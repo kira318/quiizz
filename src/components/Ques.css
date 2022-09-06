@@ -1,0 +1,42 @@
+.ques {
+    margin: 70px 100px 0;
+    padding: 3% 10%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: #C1EFFF;
+}
+
+.ques h2 {
+    font-size: 2rem;
+}
+
+.ques button {
+    text-align: left    ;
+    margin: 10px;
+    width: 90%;
+    padding: 20px;
+    font-size: 1rem;
+    border: 0px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.ques .submit {
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+    width: 20%;
+    background-color: #FFC764;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.ques .slct {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.ques .green {
+    background-color: #14C38E;
+}
+
+.ques .red {
+    background-color: #E94560;
+}

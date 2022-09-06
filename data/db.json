@@ -1,0 +1,73 @@
+{
+    "results": [{
+        "category": "Entertainment: Video Games",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "Faust is a playable character in Guilty Gear Xrd Revelator.",
+        "correct_answer": "True",
+        "incorrect_answers": ["False"]
+    }, {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "A scientific study on peanuts in bars found traces of over 100 unique specimens of urine.",
+        "correct_answer": "False",
+        "incorrect_answers": ["True"]
+    }, {
+        "category": "Entertainment: Cartoon & Animations",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "Bill Cipher in the show Gravity Falls is the good guy.",
+        "correct_answer": "False",
+        "incorrect_answers": ["True"]
+    }, {
+        "category": "Politics",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "Denmark has a monarch.",
+        "correct_answer": "True",
+        "incorrect_answers": ["False"]
+    }, {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "You can legally drink alcohol while driving in Mississippi.",
+        "correct_answer": "True",
+        "incorrect_answers": ["False"]
+    }, {
+        "category": "Entertainment: Video Games",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "Gordon Freeman, the protagonist of Half-Life, is said to have once had a ponytail.",
+        "correct_answer": "True",
+        "incorrect_answers": ["False"]
+    }, {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "One of Donald Trump&#039;s 2016 Presidential Campaign promises was to build a border wall between the United States and Mexico.",
+        "correct_answer": "True",
+        "incorrect_answers": ["False"]
+    }, {
+        "category": "Politics",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "Donald Trump won the popular vote in the 2016 United States presidential election.",
+        "correct_answer": "False",
+        "incorrect_answers": ["True"]
+    }, {
+        "category": "Geography",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "Tokyo is the capital of Japan.",
+        "correct_answer": "True",
+        "incorrect_answers": ["False"]
+    }, {
+        "category": "Entertainment: Books",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "Green Eggs and Ham consists of only 50 different words.",
+        "correct_answer": "True",
+        "incorrect_answers": ["False"]
+    }]
+}
